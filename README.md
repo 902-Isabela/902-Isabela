@@ -1,4 +1,4 @@
-## Olá! Eu sou a Isabela Cardoso Machado
+## Olá! Eu sou Isabela Cardoso Machado
 ![image](https://github.com/user-attachments/assets/223f59da-0388-4dcb-ad01-faadd6e2485f)
 
 
