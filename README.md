@@ -29,11 +29,10 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seu-usuario)](https://linkedin.com/in/seu-usuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/seu-usuario)](https://twitter.com/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabela%20Cardoso%20Machado-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isabela-cardoso-machado-a809072b6)
+
 
 ---
 
