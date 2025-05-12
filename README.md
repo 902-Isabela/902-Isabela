@@ -2,8 +2,6 @@
 ![image](https://github.com/user-attachments/assets/223f59da-0388-4dcb-ad01-faadd6e2485f)
 
 
-
-- 🔭 Estou atualmente cursando ADS
 - 🌱 Estou atualmente aprendendo a linguagem Python
 - 👯 Estou procurando uma oportunidade de estágio 
 ---
