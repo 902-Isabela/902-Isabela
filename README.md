@@ -40,7 +40,10 @@ Uma curiosidade sobre mim é que falo 3 línguas estrangeiras!
 
 🗺️ Explorando novas linguagens e frameworks  
 🎯 Em busca de desafios técnicos e criativos  
-📍 Atualmente ancorada em projetos pessoais e colaborativos  
+📍 Atualmente ancorada em projetos pessoais e colaborativos 
+
+---
+
 
 
 ---
