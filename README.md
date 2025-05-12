@@ -6,7 +6,6 @@
 - 🔭 Estou atualmente cursando ADS
 - 🌱 Estou atualmente aprendendo a linguagem Python
 - 👯 Estou procurando uma oportunidade de estágio 
--->
 ---
 ## 🧭 Sobre mim
 
